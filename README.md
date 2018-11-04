@@ -8,7 +8,7 @@ The use of any other streams, endpoints, parameters, or payloads, etc. is not su
 
 Name | Description
 --------|--------
-graphql-api.md | Details on the GraphQL API (/graphql)
-rest-api.md | Details on the Rest API (/api)
-errors.md | Descriptions of possible error messages from the Rest API
-user-data-stream.md | Details on the dedicated account stream
+[graphql-api.md](graphql-api.md) | Details on the GraphQL API (/graphql)
+[rest-api.md](rest-api.md) | Details on the Rest API (/api)
+[errors.md](errors.md) | Descriptions of possible error messages from the Rest API
+[user-data-stream.md](user-data-stream.md) | Details on the dedicated account stream
